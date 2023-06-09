@@ -1,2 +1,3 @@
 # coding-test
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+여기는 BaekjoonHub 크롬 확장 프로그램을 이용해 만들어진 저장소입니다. <br/>
+백준이랑 프로그래머스를 풀면 자동으로 푸시가 된다네요 ^__^ b
