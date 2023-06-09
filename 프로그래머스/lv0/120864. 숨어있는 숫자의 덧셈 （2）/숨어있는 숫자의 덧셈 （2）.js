@@ -1,0 +1,1 @@
+const solution = (my_string) => my_string.split(/[a-zA-Z]/g).reduce((acc, cur) => acc + +cur, 0);
