@@ -1,0 +1,1 @@
+const solution = (x) => !(x % String(x).split("").map((str) => Number(str)).reduce((acc, cur) => acc + cur, 0))
