@@ -1,0 +1,1 @@
+const solution = (n) => n.split("").sort((a, b) => b.charCodeAt() - a.charCodeAt()).join("");
