@@ -1,0 +1,1 @@
+const solution = (s) => s.split(" ").map((word) => word.split("").map((item, index) => index === 0 ? item.toUpperCase() : item.toLowerCase()).join("")).join(" ");
