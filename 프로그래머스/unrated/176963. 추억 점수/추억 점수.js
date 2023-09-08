@@ -1,0 +1,1 @@
+const solution = (name, yearning, photo) => photo.map((list) => list.map((p) => name.indexOf(p) > -1 ? yearning[name.indexOf(p)] : 0).reduce((acc, cur) => acc + cur, 0));
